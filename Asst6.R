@@ -8,3 +8,7 @@ plot(RailTrail$lowtemp, swiss$hightemp,
 	pch=8,
 	cex=1,
 	col= "red") 
+
+# add comment 
+# git can be helpful to collaborate 
+# and can allow you to track changes to code :)
